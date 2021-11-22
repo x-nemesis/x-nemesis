@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @x-nemesis
+- 👀 I’m interested in web development with C#, TypeScript, Python and Node.js
+- 🌱 I’m currently learning C# / ASP.NET
+- 💞️ I’m looking to collaborate on .NET 6 projects
+- 📫 How to reach me: [email](mailto:info@xenial.cloud)
